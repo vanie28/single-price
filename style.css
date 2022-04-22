@@ -1,0 +1,83 @@
+
+/* - Cyan: hsl(179, 62%, 43%) */
+/* - Bright Yellow: hsl(71, 73%, 54%)
+
+### Neutral
+
+- Light Gray: hsl(204, 43%, 93%)
+- Grayish Blue: hsl(218, 22%, 67%) */
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+body {
+    background-color: hsl(218, 22%, 67%); 
+    /* <style> */
+    .attribution { font-size: 11px; text-align: center; }
+    /* .attribution a { color: hsl(228, 45%, 44%); } */
+  /* </style> */
+  /* background-color: hsl(228, 45%, 44%); */
+  padding: 20px;
+  Font size: 16px
+}
+.container {
+    padding: 30px;
+}
+.community {
+    background-color: white;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.community h1 {
+    color: hsl(179, 62%, 43%);
+}
+span {
+    color: hsl(71, 73%, 54%);
+}
+
+p { 
+color: hsl(218, 22%, 67%);
+}
+
+.subscription {
+    color: white;
+    background-color: hsl(179, 62%, 30%);
+    padding: 10px;
+
+}
+input {
+    background-color: hsl(71, 73%, 54%);
+    padding: 10px 75px;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    
+}
+.why {
+    background-color: hsl(179, 62%, 32%);
+    padding: 10px;
+}
+h2 p1 p3 input {
+    color: white;
+}
+
+p1 {
+font-size: xx-large;
+}
+
+p2 {
+    color: hsl(218, 22%, 67%);
+}
+
+p3 {
+    font-size: small;
+}
+
+
+
+    
